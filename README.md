@@ -99,10 +99,10 @@ Click the button below to safely download the full package:
    
    • Extract all files to a folder of your choice
    
-   • Recommended: C:\Program Files\Setup_launch
+   • Recommended: C:\Program Files\Launcher
 
 2. ⚙️ Run Installer
-   • Locate and run the Setup_launch.exe installer
+   • Locate and run the Launcher.exe installer
    
    • If prompted by UAC, click 'Yes'
    

